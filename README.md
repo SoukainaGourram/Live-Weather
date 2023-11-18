@@ -17,3 +17,43 @@ This script allows users to get current weather details for a specific city. It 
 
 - Python 3.x
 - `requests` library
+
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/SoukainaGourram/weather-script.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd weather-script
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Usage
+
+1. Run the script:
+
+    ```bash
+    python weather_script.py
+    ```
+
+2. Enter the name of any city when prompted.
+
+3. View the weather information displayed on the console.
+
+## Configuration
+
+Make sure to replace `'your-api-key'` in the script with your actual OpenWeatherMap API key. You can obtain an API key by signing up on the OpenWeatherMap website.
+
+## Acknowledgments
+
+This script is powered by the OpenWeatherMap API.
