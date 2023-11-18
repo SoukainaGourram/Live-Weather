@@ -57,3 +57,7 @@ Make sure to replace `'your-api-key'` in the script with your actual OpenWeather
 ## Acknowledgments
 
 This script is powered by the OpenWeatherMap API.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
